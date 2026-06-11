@@ -1,2 +1,1 @@
-# git_test
-Hello Odin
+Projects created while learning with Odin Project
