@@ -1,0 +1,19 @@
+.example{
+    background-color: rgb(255, 104, 104);
+    font-size: 18px;
+}
+#big{
+    color: blue;
+    font-weight: 800;
+    font-size: 50px;
+}
+.bigc{
+    background-color: rgb(255, 104, 104);
+     font-weight: 400;
+    font-size: 25px; 
+}
+#bigid{
+    background-color: rgb(154, 255, 154);
+    font-weight: bold;
+    font-size: 30px;
+}
